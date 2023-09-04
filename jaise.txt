@@ -1,0 +1,6 @@
+name	:	jaise
+order	:	chiken
+date	:	1-12-2023
+rate	:	120
+qty	:	2
+number	:	778922882
