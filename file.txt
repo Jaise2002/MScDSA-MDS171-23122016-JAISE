@@ -1,0 +1,26 @@
+name	:	jaise
+order	:	porotta
+date	:	1-23-23
+rate	:	120
+qty	:	4
+number	:	288399332name	:	jolin
+order	:	puttu
+date	:	1-12-2023
+rate	:	201
+qty	:	4
+number	:	18399393name	:	jolin
+order	:	puttu
+date	:	1-12-2023
+rate	:	302
+qty	:	4
+number	:	235958833name	:	kunji
+order	:	kappa
+date	:	12-12-2023
+rate	:	203
+qty	:	2
+number	:	4567897544name	:	adresh
+order	:	chiken
+date	:	1-23-23
+rate	:	201
+qty	:	4
+number	:	5679965456
