@@ -16,3 +16,6 @@ Email:jaise.george@msds.christuniversity.in
 |4.|04-09-23|lab04| A Taste of Success: The Restaurant Management System and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
 |5.|08-09-23|lab05| Mix & Match Calculator and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
 |6.|11-09-23|lab06| program to find the count of Vowels in a list and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE/tree/183fcd9e636072e421685b549cce37f250daf329/Lab%2006|
+|7.|15-09-23|lab07| program of my menu driven resturent and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
+|8.|18-09-23|lab07| program for metrix multiplication and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
+|9.|22-09-23|lab07| program for tracking expense and income and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|

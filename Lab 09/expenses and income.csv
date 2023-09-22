@@ -1,0 +1,11 @@
+Type,Expense Category,Amount,Description,Date
+Income,Salary,50000,Work salary,8/1/2023
+Income,RD retruns,5000,Bank Deposit returns,8/2/2023
+Income,Returns,500,From Friends,8/3/2023
+Expense,Dinning Out,120,Had 1 Bririyani,8/4/2023
+Expense,Entertainment,120,Movie,8/5/2023
+Expense,Miscellaneous,600,Buying Gift,8/6/2023
+Expense,Grocerries,800,Fruits and Vegetables,8/7/2023
+Expense,Clothings,1200,1 shirt,8/8/2023
+Expense,Travel,500,To Hometown,8/9/2023
+
