@@ -19,3 +19,4 @@ Email:jaise.george@msds.christuniversity.in
 |7.|15-09-23|lab07| program of my menu driven resturent and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
 |8.|18-09-23|lab08| program for metrix multiplication and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
 |9.|22-09-23|lab09| program for tracking expense and income and push it to github| https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
+|10.|26-10-23|lab10| program to manage student detil and push it to github|https://github.com/Jaise2002/MScDSA-MDS171-23122016-JAISE.git|
